@@ -26,6 +26,8 @@
 **Visitors Count**  
 ![VisitorCount](https://profile-counter.glitch.me/{pratikd2124}/count.svg)
 
+[![GitHub followers](https://img.shields.io/github/followers/pratikd2124?label=Follow&style=social)](https://github.com/pratikd2124/?tab=follow)
+
 <p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=pratikd2124&show_icons=true" /></p>
 
 
