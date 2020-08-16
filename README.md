@@ -19,7 +19,7 @@
 -  **How to reach me:** [Mail](pratikd2124@gmail.com)
 
 
-### Tip
+**Note:**
 **pratikd2124/pratikd2124** is a special repository because its `README.md` (this file) appears on your GitHub profile.
 
 <!--- 💬 Ask me about
