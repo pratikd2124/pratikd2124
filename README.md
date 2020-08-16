@@ -18,6 +18,12 @@
 
 -  **How to reach me:** [Mail](pratikd2124@gmail.com)
 
+-  Fun fact: Co-owner of [Whats Happening Entertainment](https://instagram.com/whatshappening.ent)
+
+
+**Visitors Count**  
+![VisitorCount](https://profile-counter.glitch.me/{pratikd2124}/count.svg)
+
 
 **Note:**
 **pratikd2124/pratikd2124** is a special repository because its `README.md` (this file) appears on your GitHub profile.
