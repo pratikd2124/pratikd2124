@@ -11,7 +11,10 @@
 <a href="https://instagram.com/pratikd2124">
   <img align="left" alt="PRATIK DHUMAL | Instagram" width="21px" src="https://image.flaticon.com/icons/svg/2111/2111463.svg" />
 </a>
-
+<a href="https://www.linkedin.com/in/pratik-dhumal-b877b1150">
+  <img align="left" alt="PRATIK DHUMAL | Linkedin" width="21px" src="https://image.flaticon.com/icons/svg/124/124011.svg" />
+</a>
+<br>
 
 
 ### Tip
