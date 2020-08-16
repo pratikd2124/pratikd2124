@@ -1,8 +1,6 @@
 ### `PRATIK DHUMAL` 
 
-**SOCIAL :**
-
-<a href="https://twitter.com/pratikd2124">
+**SOCIAL :**<a href="https://twitter.com/pratikd2124">
   <img align="center" alt="PRATIK DHUMAL | Twitter" width="25px" src="https://image.flaticon.com/icons/svg/733/733579.svg" />
 </a>
 <a href="https://instagram.com/pratikd2124">
