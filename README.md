@@ -11,9 +11,8 @@
 <a href="https://instagram.com/pratikd2124">
   <img align="left" alt="PRATIK DHUMAL | Instagram" width="21px" src="https://image.flaticon.com/icons/svg/2111/2111463.svg" />
 </a>
-<a href="pratikd2124@gmail.com">
-  <img align="left" alt="PRATIK DHUMAL | Mail" width="21px" src="https://image.flaticon.com/icons/svg/732/732200.svg" />
-</a>
+
+
 
 ### Tip
 **pratikd2124/pratikd2124** is a special repository because its `README.md` (this file) appears on your GitHub profile.
