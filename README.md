@@ -1,3 +1,4 @@
+
 ### `𝐏𝐑𝐀𝐓𝐈𝐊 𝐃𝐇𝐔𝐌𝐀𝐋` 
 
 **SOCIAL :**<a href="https://twitter.com/pratikd2124">
@@ -21,11 +22,14 @@
 -  Fun fact: Co-owner of [Whats Happening Entertainment](https://instagram.com/whatshappening.ent)
 
 
+
 **Visitors Count**  
 ![VisitorCount](https://profile-counter.glitch.me/{pratikd2124}/count.svg)
 
+<p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=pratikd2124&show_icons=true" /></p>
 
-**Note:**
+
+### Note:
 **pratikd2124/pratikd2124** is a special repository because its `README.md` (this file) appears on your GitHub profile.
 
 <!--- 💬 Ask me about
