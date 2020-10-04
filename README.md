@@ -11,7 +11,6 @@
   <img align="center" alt="PRATIK DHUMAL | Linkedin" width="20px" src="https://image.flaticon.com/icons/svg/124/124011.svg" />
 </a>
 <br>
--  I’m currently working on nothing, just learning
 
 -  I’m currently learning **python,C++,java &  Web development**
 
@@ -37,4 +36,5 @@
 <!--- 💬 Ask me about
 - 😄 Pronouns: ... 
 - 👯 I’m looking to collaborate on ... 
-- ⚡ Fun fact: ...-->
+- ⚡ Fun fact: ...
+-  I’m currently working on nothing, just learning-->
