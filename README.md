@@ -24,7 +24,7 @@
 
 
 **Visitors Count**  
-![VisitorCount](https://profile-counter.glitch.me/{pratikd2124}/count.svg)
+![VisitorCount](https://visitor-badge.glitch.me/badge?page_id=pratikd2124.pratikd2124)
 
 [![GitHub followers](https://img.shields.io/github/followers/pratikd2124?label=Follow&style=social)](https://github.com/pratikd2124/?tab=follow)
 
