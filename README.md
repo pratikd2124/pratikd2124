@@ -12,7 +12,7 @@
 </a>
 <br>
 
--  I’m currently learning **python,C++,java &  Web development**
+-  I’m currently learning **`python,PHP,Javascript,C++ &  Web development`**
 
 -  I’m looking for help with Data structures,database management & Web hosting 
 
