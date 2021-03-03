@@ -16,7 +16,7 @@
 
 -  I’m looking for help with Data structures,database management & Web hosting 
 
--  **How to reach me:** [Mail](pratikd2124@gmail.com)
+-  **How to reach me:** [Mail](mailto:pratikd2124@gmail.com)
 
 -  Fun fact: Co-owner of [Whats Happening Entertainment](https://instagram.com/whatshappening.ent)
 
