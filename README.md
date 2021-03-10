@@ -18,7 +18,7 @@
 
 -  **How to reach me:** [Mail](mailto:pratikd2124@gmail.com)
 
--  Fun fact: Co-owner of [Whats Happening Entertainment](https://instagram.com/whatshappening.ent)
+
 
 
 
@@ -37,4 +37,5 @@
 - 😄 Pronouns: ... 
 - 👯 I’m looking to collaborate on ... 
 - ⚡ Fun fact: ...
--  I’m currently working on nothing, just learning-->
+-  I’m currently working on nothing, just learning
+-  Fun fact: Co-owner of [Whats Happening Entertainment](https://instagram.com/whatshappening.ent)-->
