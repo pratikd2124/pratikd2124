@@ -29,6 +29,7 @@
 
 <p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=pratikd2124&show_icons=true&theme=gotham"/></p>
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pratikd2124&theme=dark)
 
 ### Note:
 **pratikd2124/pratikd2124** is a special repository because its `README.md` (this file) appears on your GitHub profile.
