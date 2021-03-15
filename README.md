@@ -11,7 +11,7 @@
   <img align="center" alt="PRATIK DHUMAL | Linkedin" width="20px" src="https://image.flaticon.com/icons/svg/124/124011.svg" />
 </a>
 <a href="https://dev.to/pratikd2124">
-  <img align="center" alt="PRATIK DHUMAL | DEV.TO" width="20px" src="https://gist.githubusercontent.com/alexcarpenter/5e5772136ed711cd9fd8089c5ac76ea8/raw/6f6790a9b3defa8a77729176da376ac53a8d1d27/devto.svg" />
+  <img align="center" alt="PRATIK DHUMAL | DEV.TO" width="20px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--R9qwOwpC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/78hs31fax49uwy6kbxyw.png" />
 </a>
 <br>
 
@@ -30,9 +30,9 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/pratikd2124?label=Follow&style=social)](https://github.com/pratikd2124/?tab=follow)
 
-<p align=""><img width="70%" src="https://github-readme-stats.vercel.app/api?username=pratikd2124&show_icons=true&theme=gotham"/></p>
+<p align="center"><img width="70%" src="https://github-readme-stats.vercel.app/api?username=pratikd2124&show_icons=true&theme=gotham"/></p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pratikd2124&theme=gotham)
+<p align="center">![](https://github-readme-stats.vercel.app/api/top-langs/?username=pratikd2124&theme=gotham)</p>
 
 ### Note:
 **pratikd2124/pratikd2124** is a special repository because its `README.md` (this file) appears on your GitHub profile.
