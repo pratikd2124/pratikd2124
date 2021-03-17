@@ -34,7 +34,7 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikd2124&theme=gotham" /></p>
 
-### :paperclip: Note:
+### :pushpin: Note:
 **pratikd2124/pratikd2124** is a special repository because its `README.md` (this file) appears on your GitHub profile.
 
 <!--- 💬 Ask me about
