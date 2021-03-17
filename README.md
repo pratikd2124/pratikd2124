@@ -26,9 +26,9 @@
 
 
 **Visitors Count**  
-![VisitorCount](https://camo.githubusercontent.com/4a7111be8cd8a4523646d7f83828bf2d648777e477ee426318cecae066de30de/68747470733a2f2f76697369746f722d62616467652e676c697463682e6d652f62616467653f706167655f69643d70726174696b64323132342e70726174696b6432313234)
-
+![VisitorCount](https://camo.githubusercontent.com/4a7111be8cd8a4523646d7f83828bf2d648777e477ee426318cecae066de30de/68747470733a2f2f76697369746f722d62616467652e676c697463682e6d652f62616467653f706167655f69643d70726174696b64323132342e70726174696b6432313234)    
 [![GitHub followers](https://img.shields.io/github/followers/pratikd2124?label=Follow&style=social)](https://github.com/pratikd2124/?tab=follow)
+
 
 <p align="center"><img width="70%" src="https://github-readme-stats.vercel.app/api?username=pratikd2124&show_icons=true&theme=gotham"/></p>
 
