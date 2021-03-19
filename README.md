@@ -31,7 +31,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/pratikd2124?label=Follow&style=social)](https://github.com/pratikd2124/?tab=follow)
 
 
-<p align="center"><img width="70%" src="https://github-readme-stats.vercel.app/api?username=pratikd2124&show_icons=true&theme=gotham"/></p>
+<p align="center"><img width="70%" src="https://github-readme-stats.vercel.app/api?username=pratikd2124&langs_count=8&layout=compact&show_icons=true&theme=gotham"/></p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikd2124&theme=gotham" /></p>
 
