@@ -33,7 +33,7 @@
 
 <p align="center"><img width="70%" src="https://github-readme-stats.vercel.app/api?username=pratikd2124&show_icons=true&theme=gotham"/></p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikd2124&langs_count=8&layout=compact&theme=gotham" /></p>
+<p align="center"><img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikd2124&langs_count=8&layout=compact&theme=gotham" /></p>
 
 ### :pushpin: Note:
 **pratikd2124/pratikd2124** is a special repository because its `README.md` (this file) appears on your GitHub profile.
