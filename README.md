@@ -23,7 +23,11 @@
 -  **How to reach me:** [Mail](mailto:pratikd2124@gmail.com)
 
 
-
+## Tech Stack
+- Web: Javascript, CSS, Python, C, C++, PHP
+- OS: Windows, Linux
+- Databse: MySql, Sqlite3
+- Framework: Django
 
 
 **Visitors Count**  
