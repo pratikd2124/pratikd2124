@@ -1,6 +1,6 @@
 
-## `PRATIK DHUMAL` 
-
+# ` PRATIK  DHUMAL`
+## 
 
 **SOCIAL :**<a href="https://twitter.com/pratikd2124">
   <img align="center" alt="PRATIK DHUMAL | Twitter" width="50px" src="https://image.flaticon.com/icons/svg/733/733579.svg" />
