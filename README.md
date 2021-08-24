@@ -27,7 +27,7 @@
 - Web: Javascript, CSS, Python, C, C++, PHP
 - OS: Windows, Linux
 - Databse: MySql, Sqlite3
-- Framework: Django
+- Framework: Django,React,Nodejs
 
 
 **Visitors Count**  
