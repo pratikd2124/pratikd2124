@@ -3,13 +3,13 @@
 ## 
 
 **SOCIAL :**<a href="https://twitter.com/pratikd2124">
-  <img align="center" alt="PRATIK DHUMAL | Twitter" width="50px" src="https://image.flaticon.com/icons/svg/733/733579.svg" />
+  <img align="center" alt="PRATIK DHUMAL | Twitter" width="50px" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" />
 </a>
 <a href="https://instagram.com/pratikd2124">
-  <img align="center" alt="PRATIK DHUMAL | Instagram" width="50px" src="https://image.flaticon.com/icons/svg/2111/2111463.svg" />
+  <img align="center" alt="PRATIK DHUMAL | Instagram" width="50px" src="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c521.png" />
 </a>
 <a href="https://www.linkedin.com/in/pratik-dhumal-b877b1150">
-  <img align="center" alt="PRATIK DHUMAL | Linkedin" width="50px" src="https://image.flaticon.com/icons/svg/124/124011.svg" />
+  <img align="center" alt="PRATIK DHUMAL | Linkedin" width="50px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
 <a href="https://dev.to/pratikd2124">
   <img align="center" alt="PRATIK DHUMAL | DEV.TO" width="50px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--R9qwOwpC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/78hs31fax49uwy6kbxyw.png" />
